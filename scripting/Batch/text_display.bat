@@ -1,3 +1,3 @@
 @echo off 
-set name=VArnesh 
+set name=SAad
 echo %name%
